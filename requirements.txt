@@ -7,6 +7,8 @@ scipy==1.4.1
 nltk==3.4
 numpy==1.18.3
 tika==1.24
+openpyxl==3.0.3
+
 
 
 
