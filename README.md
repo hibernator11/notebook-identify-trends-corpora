@@ -1,3 +1,6 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hibernator11/notebook-identify-trends-corpora/master)
+
+
 # notebook-identify-trends-corpora
 Jupyter notebooks to work with text corpora to identify trends in text.
 
