@@ -15,3 +15,11 @@ This [notebook](https://nbviewer.jupyter.org/github/hibernator11/notebook-identi
 This example is based on the journal *Doxa. Cuadernos de Filosofía del Derecho* that is a periodical publication issued every year since 1984 to promote the interchange between philosophers of law from Latin America and Latin Europe. The information regarding this publication has been published as LOD in the BVMC repository, including metadata and text, and is accessible by means of the SPARQL endpoint.
 
 <img src="images/journal-relationships.png">
+
+
+### Library of Congress and Chronicling America digitized newspaper collection
+
+This [notebook](https://nbviewer.jupyter.org/github/hibernator11/notebook-identify-trends-corpora/blob/master/trends-chronicling-america-loc.ipynb) is based on the [Bourbon News](https://chroniclingamerica.loc.gov/lccn/sn86069873/) which was initially a simple, eight-page publication, offering state, national, and international news, as well as serials, anecdotes, and topical items. The county's economic interests and its cultural passions are reflected in the publication including the horse industry and the tobacco business. The paper continued publishing until 1941.
+
+
+<img src="images/graph-loc.png">
