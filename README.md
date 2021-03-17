@@ -10,7 +10,7 @@ This [notebook](https://nbviewer.jupyter.org/github/hibernator11/notebook-emergi
 
 
 ### Biblioteca Virtual Miguel de Cervantes LOD & the journal Doxa
-This [notebook](https://nbviewer.jupyter.org/github/hibernator11/notebook-emers-corpora/blob/master/doxa.ipynb) uses the Linked Open Data repository of the [Biblioteca Virtual Miguel de Cervantes](http://www.cervantesvirtual.com).
+This [notebook](https://nbviewer.jupyter.org/github/hibernator11/notebook-emerging-topics-corpora/blob/master/doxa.ipynb) uses the Linked Open Data repository of the [Biblioteca Virtual Miguel de Cervantes](http://www.cervantesvirtual.com).
 
 This example is based on the journal *Doxa. Cuadernos de Filosofía del Derecho* that is a periodical publication issued every year since 1984 to promote the interchange between philosophers of law from Latin America and Latin Europe. The information regarding this publication has been published as LOD in the BVMC repository, including metadata and text, and is accessible by means of the SPARQL endpoint.
 
