@@ -2,7 +2,7 @@
 
 
 # notebook-emerging-topics-corpora
-Jupyter notebooks to work with text corpora to identify trends in text.
+Jupyter notebooks to work with text corpora to identify emerging topics in text corpora.
 
 
 ### Introduction to text analysis
@@ -17,6 +17,13 @@ This example is based on the journal *Doxa. Cuadernos de Filosofía del Derecho*
 <img src="images/journal-relationships.png">
 
 
+### UK Doctoral Thesis Metadata from EThOS
+
+This [notebook](https://nbviewer.jupyter.org/github/hibernator11/notebook-identify-trends-corpora/blob/master/trends-chronicling-america-loc.ipynb) is based on the [Bourbon News](https://chroniclingamerica.loc.gov/lccn/sn86069873/) which was initially a simple, eight-page publication, offering state, national, and international news, as well as serials, anecdotes, and topical items. The county's economic interests and its cultural passions are reflected in the publication including the horse industry and the tobacco business. The paper continued publishing until 1941.
+
+
+<img src="images/graph-loc.png">
+
 ### Library of Congress and Chronicling America digitized newspaper collection
 
 This [notebook](https://nbviewer.jupyter.org/github/hibernator11/notebook-identify-trends-corpora/blob/master/trends-chronicling-america-loc.ipynb) is based on the [Bourbon News](https://chroniclingamerica.loc.gov/lccn/sn86069873/) which was initially a simple, eight-page publication, offering state, national, and international news, as well as serials, anecdotes, and topical items. The county's economic interests and its cultural passions are reflected in the publication including the horse industry and the tobacco business. The paper continued publishing until 1941.
@@ -25,4 +32,5 @@ This [notebook](https://nbviewer.jupyter.org/github/hibernator11/notebook-identi
 <img src="images/graph-loc.png">
 
 
-### UK Doctoral Thesis Metadata from EThOS
+
+
