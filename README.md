@@ -2,7 +2,7 @@
 
 
 # notebook-emerging-topics-corpora
-Jupyter notebooks to work with text corpora to identify emerging topics in text corpora.
+This project includes a collection of Jupyter notebooks to work with text corpora provided by relevant GLAM institutions to identify emerging topics in text corpora. Each notebook describes how the metadata is retrieved and processed in order to obtain as a result emergent topics.
 
 
 ### Introduction to text analysis
