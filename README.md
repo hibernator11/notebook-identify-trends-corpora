@@ -6,7 +6,7 @@ This project includes a collection of Jupyter notebooks to work with text corpor
 
 
 ### Introduction to text analysis
-This [notebook](https://nbviewer.jupyter.org/github/hibernator11/notebook-emerging-topics-corpora/blob/master/introduction_to_text_analysis.ipynb) introduces how to analyse text to identify topic trends in text corpora.
+This [notebook](https://nbviewer.jupyter.org/github/hibernator11/notebook-emerging-topics-corpora/blob/master/introduction-to-text-analysis.ipynb) introduces how to analyse text to identify topic trends in text corpora.
 
 
 ### Biblioteca Virtual Miguel de Cervantes LOD & the journal Doxa
@@ -22,6 +22,8 @@ The results obtained as a result were assessed by the digital curators at the di
 ### UK Doctoral Thesis Metadata from EThOS
 
 This [notebook](https://nbviewer.jupyter.org/github/hibernator11/notebook-emerging-topics-corpora/blob/master/ethos.ipynb) is based on the [UK Doctoral Thesis Metadata from EThOS](https://doi.org/10.23636/1344) that comprises the bibliographic metadata for all UK doctoral theses listed in EThOS, the UK's national thesis service.
+
+This additional [notebook](https://nbviewer.jupyter.org/github/hibernator11/notebook-emerging-topics-corpora/blob/master/ethos-subjects.ipynb) analyses the most common subjects for a particular term that appears in the abstracts.
 
 
 ### Library of Congress and Chronicling America digitized newspaper collection
