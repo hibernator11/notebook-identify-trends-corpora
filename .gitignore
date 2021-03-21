@@ -2,6 +2,9 @@
 doxa/
 sample-doxa.pkl
 sample-loc.pkl
+sample-ethos.pkl
+sample-dblp.pkl
 chronicling-america-files
 results-doxa-dates.csv
 results-doxa.csv
+dblp/
