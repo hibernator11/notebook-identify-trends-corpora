@@ -31,7 +31,7 @@ This additional [notebook](https://nbviewer.jupyter.org/github/hibernator11/note
 
 ### dblp computer science bibliography
 
-This [notebook](https://nbviewer.jupyter.org/github/hibernator11/notebook-emerging-topics-corpora/blob/master/dblp.ipynb) is based on the [dblp computer science bibliography](https://dblp.uni-trier.de/xml/) that comprises a long list of publication records in XML format.
+This [notebook](https://nbviewer.jupyter.org/github/hibernator11/notebook-emerging-topics-corpora/blob/master/dblp.ipynb) is based on the [dblp computer science bibliography](https://dblp.uni-trier.de/xml/) that comprises a long list of publication records in XML format. Two periods (2000-2010 and 2010-2021) are assessed in order to have an overview of how the method is applied.
 
 
 ### Library of Congress and Chronicling America digitized newspaper collection
