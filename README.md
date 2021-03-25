@@ -5,7 +5,7 @@
 
 
 # notebook-emerging-topics-corpora
-This project includes a collection of Jupyter notebooks to work with text corpora provided by relevant GLAM institutions to identify emerging topics in text corpora. Each notebook describes how the metadata is retrieved and processed in order to obtain as a result emergent topics.
+This project includes a collection of Jupyter Notebooks to work with text corpora provided by relevant GLAM institutions to identify emerging topics. Each notebook describes how the metadata is retrieved and processed in order to obtain as a result emergent topics.
 
 
 ### Introduction to text analysis
@@ -41,6 +41,8 @@ This [notebook](https://nbviewer.jupyter.org/github/hibernator11/notebook-emergi
 
 <img src="images/graph-loc.png">
 
+## References
 
+- Mahey, M., Al-Abdulla, A., Ames, S., Bray, P., Candela, G., Chambers, S., Derven, C., Dobreva-McPherson, M., Gasser, K., Karner, S., Kokegei, K., Laursen, D., Potter, A., Straube, A., Wagner, S-C. and Wilms, L. with forewords by: Al-Emadi, T. A., Broady-Preston, J., Landry, P. and Papaioannou, G. (2019) Open a GLAM Lab. Digital Cultural Heritage Innovation Labs, Book Sprint, Doha, Qatar, 23-27 September 2019.
 
 
