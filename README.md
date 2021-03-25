@@ -26,6 +26,11 @@ This [notebook](https://nbviewer.jupyter.org/github/hibernator11/notebook-emergi
 This additional [notebook](https://nbviewer.jupyter.org/github/hibernator11/notebook-emerging-topics-corpora/blob/master/ethos-subjects.ipynb) analyses the most common subjects for a particular term that appears in the abstracts.
 
 
+### dblp computer science bibliography
+
+This [notebook](https://nbviewer.jupyter.org/github/hibernator11/notebook-emerging-topics-corpora/blob/master/dblp.ipynb) is based on the [dblp computer science bibliography](https://dblp.uni-trier.de/xml/) that comprises a long list of publication records in XML format.
+
+
 ### Library of Congress and Chronicling America digitized newspaper collection
 
 This [notebook](https://nbviewer.jupyter.org/github/hibernator11/notebook-emerging-topics-corpora/blob/master/chronicling-america-loc.ipynb) is based on the [Bourbon News](https://chroniclingamerica.loc.gov/lccn/sn86069873/) which was initially a simple, eight-page publication, offering state, national, and international news, as well as serials, anecdotes, and topical items. The county's economic interests and its cultural passions are reflected in the publication including the horse industry and the tobacco business. The paper continued publishing until 1941.
