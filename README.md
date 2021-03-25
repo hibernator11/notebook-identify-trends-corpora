@@ -1,5 +1,8 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hibernator11/notebook-emerging-topics-corpora/master)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4636823.svg)](https://doi.org/10.5281/zenodo.4636823)
+
+
 
 # notebook-emerging-topics-corpora
 This project includes a collection of Jupyter notebooks to work with text corpora provided by relevant GLAM institutions to identify emerging topics in text corpora. Each notebook describes how the metadata is retrieved and processed in order to obtain as a result emergent topics.
