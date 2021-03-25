@@ -101,13 +101,13 @@ articles_2003
 # In[ ]:
 
 
-articles_2010_2021 = articles[(articles.YEAR >= 2000) & (articles.YEAR <= 2010)]
+articles_data = articles[(articles.YEAR >= 2000) & (articles.YEAR <= 2010)]
 
 
 # In[ ]:
 
 
-articles_2010_2021.head()
+articles_data.head()
 
 
 # In[ ]:
@@ -199,7 +199,8 @@ class Sample(object):
         return self.capitals.get(term.lower(), term)
     
     # return the average submission year of texts containing every term
-    def average_year(self, period, tf_threshold=20, df_threshold=3):
+#    def average_year(self, period, tf_threshold=20, df_threshold=3):
+    def average_year(self, period, tf_threshold=20, df_threshold=10):
         docs = [n for n, y in enumerate(self.year)                if period[0] <= y <= period[1]]
         tf_matrix = self.matrix[:, docs]
         tf_sum = tf_matrix.sum(axis=1).A1
@@ -300,7 +301,7 @@ class Sample(object):
     # and annual document frequency above df_threshold (one year at least)
     # period = optional pair of years (min _year, max_year) inclusive
     def get_ages(self, period=None, 
-                 tf_threshold=20, df_threshold=3, keep_all=True):
+                 tf_threshold=20, df_threshold=10, keep_all=True):
         res = dict()
         doc_years = self.document_years(period, keep_all)
         for m, values in doc_years.items():
@@ -337,7 +338,7 @@ class Sample(object):
 # In[ ]:
 
 
-data = articles_2010_2021
+data = articles_data
 
 
 # In[ ]:
@@ -406,7 +407,7 @@ print(top.set_index('TERM').head())
 
 
 ts = pd.datetime.now().strftime("%Y-%m-%d_%H.%M")    
-filename = 'output/vocabulary_{}.xlsx'.format(ts)
+filename = 'output/vocabulary_dblp_2010_2021{}.xlsx'.format(ts)
 with pd.ExcelWriter(filename) as writer:
     top.set_index('TERM').to_excel(writer, sheet_name='terms')
 
