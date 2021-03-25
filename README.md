@@ -4,8 +4,11 @@
 
 
 
-# notebook-emerging-topics-corpora
-This project includes a collection of Jupyter Notebooks to work with text corpora provided by relevant GLAM institutions to identify emerging topics. Each notebook describes how the metadata is retrieved and processed in order to obtain as a result emergent topics.
+# Introduction
+
+The exploration of trends and temporal variations in the digital collections is possible by means of computational analysis. For example, users may be interested in the early detection of emerging topics (novelties in the content). In this sense, emerging subjects in scientific papers and journals can help funding agencies to identify potential and new areas of research.
+
+This project includes a collection of Jupyter Notebooks to work with text corpora provided by relevant GLAM institutions to identify emerging topics. Each notebook describes how the metadata is retrieved and processed in order to obtain as a result emergent topics. A preliminar Jupyter Notebook explain how the method works step by step.
 
 
 ### Introduction to text analysis
